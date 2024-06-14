@@ -40,6 +40,6 @@ public class Linktest {
 					//for implesit wait=driver.manage().timeouts().implicitlyWait(30, TimeUnit.SECONDS);
 					
 					
-					// covered = link test ,partialLinkText, Css selector, theread.sleep,driver.quit for multiple tabs and single tab driver.close  and also dynamic x-path by cotains method  and start with also covered 
+					//covered = link test ,partialLinkText, Css selector, theread.sleep,driver.quit for multiple tabs and single tab driver.close  and also dynamic x-path by cotains method  and start with also covered 
 				}
 			
